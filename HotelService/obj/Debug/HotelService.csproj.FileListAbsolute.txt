@@ -7,4 +7,3 @@ C:\Users\ggabbi\source\repos\HotelService\HotelService\obj\Debug\HotelService.pd
 C:\Users\ggabbi\source\repos\HotelService\HotelService\bin\Debug\Newtonsoft.Json.dll
 C:\Users\ggabbi\source\repos\HotelService\HotelService\bin\Debug\Newtonsoft.Json.xml
 C:\Users\ggabbi\source\repos\HotelService\HotelService\obj\Debug\HotelService.csproj.CopyComplete
-C:\Users\ggabbi\source\repos\HotelService\HotelService\obj\Debug\HotelService.csprojAssemblyReference.cache

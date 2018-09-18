@@ -44,10 +44,17 @@ namespace HotelClient
                         Console.Write("Hotel Address\t");
                         Console.WriteLine("Hotel Ratings\t");
                         HotelData hotelData = hotelOperationsClient.GetHotelById(hotelId);
-                        Console.Write(hotelData.HotelId+"\t\t");
-                        Console.Write(hotelData.HotelName+"\t\t");
-                        Console.Write(hotelData.HotelAddress+"\t\t");
-                        Console.WriteLine(hotelData.Ratings);
+                        if (hotelData != null)
+                        {
+                            Console.Write(hotelData.HotelId + "\t\t");
+                            Console.Write(hotelData.HotelName + "\t\t");
+                            Console.Write(hotelData.HotelAddress + "\t\t");
+                            Console.WriteLine(hotelData.Ratings);
+                        }
+                        else
+                        {
+                            Console.WriteLine("Hotel Id doesn't exist");
+                        }
                         break;
                     case 3:
                         Environment.Exit(0);
