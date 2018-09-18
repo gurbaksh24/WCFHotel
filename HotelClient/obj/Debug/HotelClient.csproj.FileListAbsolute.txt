@@ -1,0 +1,6 @@
+C:\Users\ggabbi\source\repos\HotelService\HotelClient\bin\Debug\HotelClient.exe.config
+C:\Users\ggabbi\source\repos\HotelService\HotelClient\bin\Debug\HotelClient.exe
+C:\Users\ggabbi\source\repos\HotelService\HotelClient\bin\Debug\HotelClient.pdb
+C:\Users\ggabbi\source\repos\HotelService\HotelClient\obj\Debug\HotelClient.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\source\repos\HotelService\HotelClient\obj\Debug\HotelClient.exe
+C:\Users\ggabbi\source\repos\HotelService\HotelClient\obj\Debug\HotelClient.pdb
